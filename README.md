@@ -9,8 +9,8 @@ This **Power BI** project provides an interactive dashboard to analyze and optim
 ## 🚀 Project Highlights
 
 - **Tool Used:** Power BI  
-- **Domain:** Inventory & Logistics Analytics  
-- **Duration:** *[Insert Duration Here]*
+- **Domain:** Inventory & Supply Chain Analytics  
+- **Duration:** *--*
 
 ---
 
